@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+/* CSS Code */
+
+body {
+    /* background: lightpink; */
+    padding: 20px;
+    background: hotpink;
+    color: white;
+    text-align: center;
+    font-family: 'Poppins' , sans-serif
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+h1 {
+  font-size: large;
+}
+
+p {
+  font-size: small;
+}
+.profile-img {
+  width: 85%;
+  border-radius: 60%;
+}
+
+
+.button {
+  display: block;
+  color: black;
+  padding: 16px;
+  background: white;
+  margin: 16px;
+  box-shadow: 10px 10px deeppink;
+}
+
